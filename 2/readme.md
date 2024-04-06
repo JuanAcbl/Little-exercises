@@ -1,7 +1,7 @@
 Ejercicio 2
 Crea una página html en la cual tienes que diferenciar distintas secciones. La estructura que tienes que seguir es :
 
-
+"indicaciones.png"
 
 
 
