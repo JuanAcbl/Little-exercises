@@ -1,0 +1,1 @@
+crear una pagina web de lo que quiera con un buen diseño(bueno bueno, puedes mirar ejemplos hasta copiar codigo a cierto nivel ) y en la pagina mete algo (lo que sea) de javascript
