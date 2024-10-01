@@ -15,11 +15,7 @@ for (let i = 1; i < 91; i++) {
 let display = [];
 
 document.getElementById("Num").addEventListener('click', () =>{
-    
-    
-  
 
-   
     // Llamar a la función para agregar un elemento aleatorio
 
     function agregarElementoAleatorio() {
