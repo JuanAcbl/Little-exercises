@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<medac>
+    <centro localizacion="Granada">
+        <grado nombre="DAW"> 
+            <alumno>
+                <nombre>Ana</nombre>
+                <apellidos>Fernández Gutierrez</apellidos>
+                <nif>16965696L</nif>
+                <telefono>789654321</telefono>
+                <email>ana.fdezgtrrez@hotmail.com</email>
+                <direccion>C/ El Percebe, 13 de Santander CP 39302</direccion>
+                <notas></notas>
+                <faltas></faltas>
+            </alumno>
+            <alumno>
+                <nombre>Pepito</nombre>
+                <apellidos>Grillo</apellidos>
+                <nif>98765432H</nif>
+                <telefono>656566555</telefono>
+                <email>yhyh@yahoo.com</email>
+                <direccion>Avd. El Pez, 5 de Suances CP 39401</direccion>
+                <notas>apto</notas>
+                <faltas>0</faltas>
+            </alumno>
+            <alumno>
+                <nombre>Juan</nombre>
+                <apellidos>García Hernández</apellidos>
+                <nif>34543454F</nif>
+                <telefono>600123123</telefono>
+                <email>jgarcia@gmail.com</email>
+                <direccion> C/ Rodrigo de triana, 5 de Almería CP 04005</direccion>
+                <notas>no apto</notas>
+                <faltas>0</faltas>
+            </alumno>
+            <alumno>
+                <nombre>Alicia</nombre>
+                <apellidos>Gutiérrez</apellidos>
+                <nif>111111111C</nif>
+                <telefono>659654321</telefono>
+                <email>arrez@hotmail.com</email>
+                <direccion>C/ Gran vía , 13 de Granada CP 18005</direccion>
+                <notas></notas>
+                <faltas>2</faltas>
+            </alumno>
+        </grado>
+    </centro>
+</medac>
