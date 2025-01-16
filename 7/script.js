@@ -1,6 +1,6 @@
 let bombo = [];
 
-for (let i = 1; i < 91; i++) {
+for (let i = 1; i <= 90; i++) {
   let div = document.createElement('div');
   
   div.id = `num${i}`;
@@ -9,8 +9,6 @@ for (let i = 1; i < 91; i++) {
   bombo.push(i);
   numeros.appendChild(div);
 }
-
-
 
 let display = [];
 
@@ -26,10 +24,7 @@ document.getElementById("Num").addEventListener('click', () =>{
      
        // Add a class to the div element based on the content
         document.getElementById(`num${display[display.length - 1]}`).classList.add("active");
-
-        
    
-        
        document.getElementById("preview").textContent= display[display.length - 1];
     } 
     agregarElementoAleatorio();    
